@@ -1,36 +1,18 @@
-[
-    {
-        "libro": "Génesis",
-        "capítulos": [
-            {
-                "número": 1,
-                "versículos": [
-                    "En el principio creó Dios los cielos y la tierra.",
-                    "Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.",
-                    "Y dijo Dios: Sea la luz; y fue la luz."
-                ]
-            },
-            {
-                "número": 2,
-                "versículos": [
-                    "Fueron, pues, acabados los cielos y la tierra, y todo el ejército de ellos.",
-                    "Y acabó Dios en el día séptimo la obra que hizo, y reposó el día séptimo de toda la obra que hizo.",
-                    "Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación."
-                ]
-            }
-        ]
-    },
-    {
-        "libro": "Éxodo",
-        "capítulos": [
-            {
-                "número": 3,
-                "versículos": [
-                    "Apacentando Moisés las ovejas de Jetro su suegro, sacerdote de Madián, llevó las ovejas a través del desierto, y llegó hasta Horeb, monte de Dios.",
-                    "Y se le apareció el ángel de Jehová en una llama de fuego en medio de una zarza; y él miró, y vio que la zarza ardía en fuego, y la zarza no se consumía.",
-                    "Entonces Moisés dijo: Iré yo ahora y veré esta grande visión, por qué causa la zarza no se quema."
-                ]
-            }
-        ]
-    }
-]
+{
+         "genesis": {
+             "capítulo 1": [
+                 "En el principio creó Dios los cielos y la tierra.",
+                 "Y la tierra estaba desordenada y vacía..."
+             ],
+             "capítulo 2": [
+                 "Fueron, pues, acabados los cielos...",
+                 "Y acabó Dios en el día séptimo..."
+             ]
+         },
+         "éxodo": {
+             "capítulo 1": [
+                 "Estas son los nombres de los hijos de Israel...",
+                 "Rubén, Simeón, Leví y Judá..."
+             ]
+         }
+}
