@@ -1,18 +1,16 @@
-{
-         "genesis": {
-             "capítulo 1": [
-                 "En el principio creó Dios los cielos y la tierra.",
-                 "Y la tierra estaba desordenada y vacía..."
-             ],
-             "capítulo 2": [
-                 "Fueron, pues, acabados los cielos...",
-                 "Y acabó Dios en el día séptimo..."
-             ]
-         },
-         "éxodo": {
-             "capítulo 1": [
-                 "Estas son los nombres de los hijos de Israel...",
-                 "Rubén, Simeón, Leví y Judá..."
-             ]
-         }
-}
+ {
+        "genesis": {
+            "testamento": "Antiguo Testamento",
+            "capitulos": {
+                "capítulo 1": ["Versículo 1", "Versículo 2"],
+                "capítulo 2": ["Versículo 1", "Versículo 2"]
+            }
+        },
+        "mateo": {
+            "testamento": "Nuevo Testamento",
+            "capitulos": {
+                "capítulo 1": ["Versículo 1", "Versículo 2"],
+                "capítulo 2": ["Versículo 1", "Versículo 2"]
+            }
+        }
+ }
