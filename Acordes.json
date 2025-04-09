@@ -1,23 +1,22 @@
 [
     {
-        "titulo": "Despacito",
-        "acordes": "G F C D",
-        "letra": "Despacito, quiero respirar tu cuello despacito..."
+    "Génesis": {
+        "capítulo 1": {
+            "versículo 1": "En el principio creó Dios los cielos y la tierra.",
+            "versículo 2": "Y la tierra estaba desordenada y vacía, y las tinieblas estaban sobre la faz del abismo, y el Espíritu de Dios se movía sobre la faz de las aguas.",
+            "versículo 3": "Y dijo Dios: Sea la luz; y fue la luz."
+        },
+        "capítulo 2": {
+            "versículo 1": "Fueron, pues, acabados los cielos y la tierra, y todo el ejército de ellos.",
+            "versículo 2": "Y acabó Dios en el día séptimo la obra que hizo, y reposó el día séptimo de toda la obra que hizo.",
+            "versículo 3": "Y bendijo Dios al día séptimo, y lo santificó, porque en él reposó de toda la obra que había hecho en la creación."
+        }
     },
-    {
-        "titulo": "La Bamba",
-        "acordes": "C F G",
-        "letra": "Para bailar la bamba se necesita una poca de gracia..."
-    },
-    {
-        "titulo": "Let It Be",
-        "acordes": "C G Am F",
-        "letra": "When I find myself in times of trouble..."
-    },
-    {
-        "titulo": "Mil Gracias Jesús",
-        "tonalidad": "C#m",
-        "acordes": "A B E E/G#m",
-        "letra": "[Primera Parte]\nQue mas puedo pedir si me diste todo\nQue mas puedo tener si en ti tengo todo\nNo hay nada que me llene mas que tu dulce presencia\nNada me satisface mas\nMi todo eres Tu\n\n[Estribillo]\nQuiero darte mil gracias porque eres Dios\nY tu eterno amor\nQuiero darte mil gracias todo viene de ti todo vuelve a ti\nJesus\n\n[Puente]\nNo necesito nada mas solo quiero a Cristo\nmas de Cristo\nMil gracias Jesús"
-    }
+    "Éxodo": {
+        "capítulo 3": {
+            "versículo 1": "Apacentando Moisés las ovejas de Jetro su suegro, sacerdote de Madián, llevó las ovejas a través del desierto, y llegó hasta Horeb, monte de Dios.",
+            "versículo 2": "Y se le apareció el ángel de Jehová en una llama de fuego en medio de una zarza; y él miró, y vio que la zarza ardía en fuego, y la zarza no se consumía.",
+            "versículo 3": "Entonces Moisés dijo: Iré yo ahora y veré esta grande visión, por qué causa la zarza no se quema."
+        }
+    
 ]
